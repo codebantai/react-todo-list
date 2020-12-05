@@ -1,5 +1,7 @@
 ### TODO LIST USING REACT
-# demo https://vk-todolist.netlify.app/
+# Demo https://vk-todolist.netlify.app/
+
+### In this TODOLIST react app you can `ADD`,`DELETE` and `EDIT` tasks.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
