@@ -14,6 +14,9 @@ p{
   font-size: 1rem;
   align-items: center;
 }
+a{
+  text-decoration: none;
+}
 .edit-input :focus{
   outline: none !important;
 }
